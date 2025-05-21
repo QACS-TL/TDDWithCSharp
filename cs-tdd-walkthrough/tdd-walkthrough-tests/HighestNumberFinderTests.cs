@@ -1,16 +1,11 @@
-using NUnit.Framework;
+using Xunit;
 using tdd_workshop;
 
 namespace tdd_walkthrough_tests
 {
     public class HighestNumberFinderTests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
-        [Test]
+        [Fact]
         public void Find_highest_in_array_of_one()
         {
             // Arrange
@@ -25,10 +20,10 @@ namespace tdd_walkthrough_tests
             int result = cut.findHighest(numbers);
 
             // Assert
-            Assert.AreEqual(expectedResult, result);
+            Assert.Equal(expectedResult, result);
         }
 
-        [Test]
+        [Fact]
         public void Find_highest_in_array_of_two_descending_order()
         {
             // Arrange
@@ -43,7 +38,7 @@ namespace tdd_walkthrough_tests
             int result = cut.findHighest(numbers);
 
             // Assert
-            Assert.AreEqual(expectedResult, result);
+            Assert.Equal(expectedResult, result);
         }
     }
 }
