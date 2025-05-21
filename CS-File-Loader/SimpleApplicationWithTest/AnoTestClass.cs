@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Linq;
-using NUnit.Framework;
+using Xunit;
 
 namespace SimpleApplicationWithTest
 {
-    [TestFixture]
     public class AnoTestClass
     {
-        [Test]
+        [Fact]
         public void someTest()
         {
 

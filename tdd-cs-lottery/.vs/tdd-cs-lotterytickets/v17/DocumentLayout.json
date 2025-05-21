@@ -33,21 +33,20 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "tdd-cs-lotterytickets",
+              "Title": "tdd-cs-lotterytickets.csproj",
               "DocumentMoniker": "C:\\QAL\\Barclays\\TDDWithCSharp\\tdd-cs-lottery\\tdd-cs-lotterytickets\\tdd-cs-lotterytickets.csproj",
               "RelativeDocumentMoniker": "tdd-cs-lotterytickets\\tdd-cs-lotterytickets.csproj",
               "ToolTip": "C:\\QAL\\Barclays\\TDDWithCSharp\\tdd-cs-lottery\\tdd-cs-lotterytickets\\tdd-cs-lotterytickets.csproj",
               "RelativeToolTip": "tdd-cs-lotterytickets\\tdd-cs-lotterytickets.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-21T13:10:16.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "WhenOpened": "2025-05-21T13:10:16.049Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "LotteryService\\INumberGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:08:51.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T13:08:51.391Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "LotteryService\\LotteryHandler.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:08:45.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T13:08:45.457Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "LotteryService\\MyRandomNumberGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:08:42.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T13:08:42.751Z"
             },
             {
               "$type": "Document",

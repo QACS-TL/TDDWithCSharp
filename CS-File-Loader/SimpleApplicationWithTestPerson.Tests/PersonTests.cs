@@ -1,4 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Xunit;
 using SimpleApplicationWithTest;
 using System;
 using System.Collections.Generic;
@@ -17,10 +17,9 @@ namespace SimpleApplicationWithTest.Tests
         }
     }
 
-    [TestClass()]
     public class PersonTests
     {
-        [TestMethod()]
+        [Fact]
         public void person_objects_have_same_attributes_expect_true()
         {
             // Arrange
@@ -32,11 +31,11 @@ namespace SimpleApplicationWithTest.Tests
             bool result = (p1 == p2);
 
             // Assert
-            Assert.AreEqual(expResult, result);
+            Assert.Equal(expResult, result);
         }
 
 
-        [TestMethod()]
+        [Fact]
         public  void    Mocks_at_work()
         {
             // arrange
@@ -52,7 +51,7 @@ namespace SimpleApplicationWithTest.Tests
             long result = salmons.getSize();
 
             // assert
-            Assert.AreEqual(result, expectedLength);
+            Assert.Equal(result, expectedLength);
         }
     }
 }

@@ -1,4 +1,4 @@
-using NUnit.Framework;
+using Xunit;
 using NSubstitute;
 using System.Collections.Generic;
 using System.IO;
@@ -11,28 +11,28 @@ namespace NUnit_FileLoader
 {
     public class FileLoaderTest
     {
-        [Test]
+		[Fact]
         public void load_all_of_file_using_direct_load()
         {
             // arrange
-            string fileToLoad = "c:/tmp/KeyboardHandler.java.txt";
+            string fileToLoad = "c:/tmp/KeyboardHandler.cs.txt";
             FileLoader cut = new FileLoader();
-            int expectedBytesRead = 1383;
+            int expectedBytesRead = 638;
 
             // act
             int bytesRead = cut.LoadFile(fileToLoad);
 
             // assert
-            Assert.AreEqual(expectedBytesRead, bytesRead);
+            Assert.Equal(expectedBytesRead, bytesRead);
         }
 
-        [Test]
+        [Fact]
         public void load_all_of_file_using_delegate()
         {
             // arrange
-            string fileToLoad = "c:/tmp/KeyboardHandler.java.txt";
+            string fileToLoad = "c:/tmp/KeyboardHandler.cs.txt";
             FileLoader cut = new FileLoader(fileToLoad);
-            int expectedBytesRead = 1383;
+            int expectedBytesRead = 638;
 
             // act
             int bytesRead = cut.LoadFile((fname)=>
@@ -47,14 +47,14 @@ namespace NUnit_FileLoader
             });
 
             // assert
-            Assert.AreEqual(expectedBytesRead, bytesRead);
+            Assert.Equal(expectedBytesRead, bytesRead);
         }
 
-        [Test]
+		[Fact]
         public void load_all_of_file_using_delegate_with_stubbed_data()
         {
             // arrange
-            string fileToLoad = "c:/tmp/KeyboardHandler.java.txt";
+            string fileToLoad = "c:/tmp/KeyboardHandler.cs.txt";
             FileLoader cut = new FileLoader(fileToLoad);
             int expectedBytesRead = 55;
 
@@ -70,14 +70,14 @@ namespace NUnit_FileLoader
             });
 
             // assert
-            Assert.AreEqual(expectedBytesRead, bytesRead);
+            Assert.Equal(expectedBytesRead, bytesRead);
         }
 
-        [Test]
+		[Fact]
         public void load_all_of_file_using_delegate_with_mock()
         {
             // arrange
-            string fileToLoad = "c:/tmp/KeyboardHandler.java.txt";
+            string fileToLoad = "c:/tmp/KeyboardHandler.cs.txt";
             FileLoader cut = new FileLoader(fileToLoad);
             List<string> pretendFileContent = new();
             pretendFileContent.Add("Hello");
@@ -95,12 +95,12 @@ namespace NUnit_FileLoader
             });
 
             // assert
-            Assert.AreEqual(expectedBytesRead, bytesRead);
+            Assert.Equal(expectedBytesRead, bytesRead);
         }
 
         // This is an enterprise feature, not available in standard VS
         /*
-        [Test]
+		[Fact]
         public void check_the_file_length_Shim()
         {
             // Arrange
@@ -114,7 +114,7 @@ namespace NUnit_FileLoader
                 actual = cut.LoadFile(testFile);
             }
             // Assert
-            Assert.AreEqual(expected, actual);
+            Assert.Equal(expected, actual);
         }
         */
     }

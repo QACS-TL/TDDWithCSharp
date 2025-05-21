@@ -1,4 +1,4 @@
-using NUnit.Framework;
+using Xunit;
 using System.Collections.Generic;
 using SimpleApplicationWithTest;
 using NSubstitute;
@@ -15,12 +15,8 @@ namespace PersonTestsAndMockingExample
             }
         }
 
-        [SetUp]
-        public void Setup()
-        {
-        }
     
-        [Test]
+        [Fact]
         public void person_objects_have_same_attributes_expect_true()
         {
             // Arrange
@@ -32,11 +28,11 @@ namespace PersonTestsAndMockingExample
             bool result = (p1 == p2);
 
             // Assert
-            Assert.AreEqual(expResult, result);
+            Assert.Equal(expResult, result);
         }
 
 
-        [Test]
+        [Fact]
         public void Mocks_at_work()
         {
             // arrange
@@ -52,7 +48,7 @@ namespace PersonTestsAndMockingExample
             long result = salmons.getSize();
 
             // assert
-            Assert.AreEqual(result, expectedLength);
+            Assert.Equal(result, expectedLength);
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Xunit;
 using SimpleApplicationWithTest;
 using System;
 using System.Collections.Generic;
@@ -8,22 +8,21 @@ using System.Threading.Tasks;
 
 namespace SimpleApplicationWithTest.Tests
 {
-    [TestClass()]
     public class PersonTests
     {
-        [TestMethod()]
+        [Fact]
         public void PersonTest()
         {
             Assert.Fail();
         }
 
-        [TestMethod()]
+        [Fact]
         public void EqualsTest()
         {
             Assert.Fail();
         }
 
-        [TestMethod()]
+        [Fact]
         public void ComparisonTest()
         {
             Assert.Fail();

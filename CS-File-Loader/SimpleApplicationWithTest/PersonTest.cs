@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Linq;
-using NUnit.Framework;
+using Xunit;
 
 namespace SimpleApplicationWithTest
 {
-    [TestFixture]
     public class PersonTest
     {
-        [Test]
+        [Fact]
         public void if_objects_are_fully_equal()
         {
             // Arrange
@@ -19,10 +18,10 @@ namespace SimpleApplicationWithTest
             bool result = (p1 == p2);
 
             // Assert
-            Assert.AreEqual(expResult, result);
+            Assert.Equal(expResult, result);
         }
 
-        [Test, Category("Basic Test")]
+        [Fact]
         public void test_if_objects_are_fully_equal_vary_case()
         {
             // Arrange
@@ -32,10 +31,10 @@ namespace SimpleApplicationWithTest
 
             bool result = (p1 == p2);
 
-            Assert.AreEqual(expResult, result);
+            Assert.Equal(expResult, result);
         }
 
-        [Test, Category("Basic Test")]
+        [Fact]
         public void test_if_objects_are_not_fully_equal()
         {
             // Arrange
@@ -45,7 +44,7 @@ namespace SimpleApplicationWithTest
 
             bool result = (p1 != p2);
 
-            Assert.AreEqual(expResult, result);
+            Assert.Equal(expResult, result);
         }
     }
 }

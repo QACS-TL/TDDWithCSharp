@@ -1,11 +1,11 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Xunit;
 
 namespace MSTest_FileLoader
 {
-    [TestClass]
+
     public class FileLoaderTest
     {
-        [TestMethod]
+        [Fact]
         public void TestMethod1()
         {
         }
