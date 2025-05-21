@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\QAL\\Barclays\\QLC1HighestNumberFinder\\",
+  "WorkspaceRootPath": "C:\\QAL\\Barclays\\TDDWithCSharp\\QLC1HighestNumberFinder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A71EC3D-2485-4D0A-BC5C-6A311014C1A6}|QLC1HighestNumberFinder\\QLC1HighestNumberFinder.csproj|c:\\qal\\barclays\\qlc1highestnumberfinder\\qlc1highestnumberfinder\\highestnumberfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A71EC3D-2485-4D0A-BC5C-6A311014C1A6}|QLC1HighestNumberFinder\\QLC1HighestNumberFinder.csproj|solutionrelative:qlc1highestnumberfinder\\highestnumberfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2FC93EE-0147-4F0D-AEBE-551435FC3C6C}|QLC1HighestNumberFinderTests\\QLC1HighestNumberFinderTests.csproj|c:\\qal\\barclays\\tddwithcsharp\\qlc1highestnumberfinder\\qlc1highestnumberfindertests\\highestnumberfindertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FC93EE-0147-4F0D-AEBE-551435FC3C6C}|QLC1HighestNumberFinderTests\\QLC1HighestNumberFinderTests.csproj|solutionrelative:qlc1highestnumberfindertests\\highestnumberfindertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2FC93EE-0147-4F0D-AEBE-551435FC3C6C}|QLC1HighestNumberFinderTests\\QLC1HighestNumberFinderTests.csproj|c:\\qal\\barclays\\qlc1highestnumberfinder\\qlc1highestnumberfindertests\\highestnumberfindertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2FC93EE-0147-4F0D-AEBE-551435FC3C6C}|QLC1HighestNumberFinderTests\\QLC1HighestNumberFinderTests.csproj|solutionrelative:qlc1highestnumberfindertests\\highestnumberfindertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A71EC3D-2485-4D0A-BC5C-6A311014C1A6}|QLC1HighestNumberFinder\\QLC1HighestNumberFinder.csproj|c:\\qal\\barclays\\tddwithcsharp\\qlc1highestnumberfinder\\qlc1highestnumberfinder\\highestnumberfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A71EC3D-2485-4D0A-BC5C-6A311014C1A6}|QLC1HighestNumberFinder\\QLC1HighestNumberFinder.csproj|solutionrelative:qlc1highestnumberfinder\\highestnumberfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,24 +26,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HighestNumberFinderTests.cs",
-              "DocumentMoniker": "C:\\QAL\\Barclays\\QLC1HighestNumberFinder\\QLC1HighestNumberFinderTests\\HighestNumberFinderTests.cs",
+              "DocumentMoniker": "C:\\QAL\\Barclays\\TDDWithCSharp\\QLC1HighestNumberFinder\\QLC1HighestNumberFinderTests\\HighestNumberFinderTests.cs",
               "RelativeDocumentMoniker": "QLC1HighestNumberFinderTests\\HighestNumberFinderTests.cs",
-              "ToolTip": "C:\\QAL\\Barclays\\QLC1HighestNumberFinder\\QLC1HighestNumberFinderTests\\HighestNumberFinderTests.cs",
+              "ToolTip": "C:\\QAL\\Barclays\\TDDWithCSharp\\QLC1HighestNumberFinder\\QLC1HighestNumberFinderTests\\HighestNumberFinderTests.cs",
               "RelativeToolTip": "QLC1HighestNumberFinderTests\\HighestNumberFinderTests.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T09:57:30.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HighestNumberFinder.cs",
-              "DocumentMoniker": "C:\\QAL\\Barclays\\QLC1HighestNumberFinder\\QLC1HighestNumberFinder\\HighestNumberFinder.cs",
+              "DocumentMoniker": "C:\\QAL\\Barclays\\TDDWithCSharp\\QLC1HighestNumberFinder\\QLC1HighestNumberFinder\\HighestNumberFinder.cs",
               "RelativeDocumentMoniker": "QLC1HighestNumberFinder\\HighestNumberFinder.cs",
-              "ToolTip": "C:\\QAL\\Barclays\\QLC1HighestNumberFinder\\QLC1HighestNumberFinder\\HighestNumberFinder.cs",
+              "ToolTip": "C:\\QAL\\Barclays\\TDDWithCSharp\\QLC1HighestNumberFinder\\QLC1HighestNumberFinder\\HighestNumberFinder.cs",
               "RelativeToolTip": "QLC1HighestNumberFinder\\HighestNumberFinder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

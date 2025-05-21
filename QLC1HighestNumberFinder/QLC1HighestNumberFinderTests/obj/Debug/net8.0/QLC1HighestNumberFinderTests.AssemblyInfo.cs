@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QLC1HighestNumberFinderTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6387ad10ae4171886e4b956bc73211987998311")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6baa142d1cca16a43dc040054a2fc20c58ff0aac")]
 [assembly: System.Reflection.AssemblyProductAttribute("QLC1HighestNumberFinderTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QLC1HighestNumberFinderTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,7 +2,7 @@
 {
     public class HighestNumberFinder
     {
-        public int findHighestNumber(int[] values)
+        public int FindHighestNumber(int[] values)
         {
             if (values.Length < 1)
                 throw new ArgumentException("Array is empty");

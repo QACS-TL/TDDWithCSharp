@@ -1,11 +1,11 @@
 using FindHighestNumberService.v1;
-using NUnit.Framework;
+using Xunit;
 
 namespace FindHighestNumberTests.v1
 {
     public class FindHighestNumberTests
     {
-        [Test]
+        [Fact]
         public void Array_of_one_item_returns_this_item()
         {
             // Arrange
@@ -17,7 +17,7 @@ namespace FindHighestNumberTests.v1
             int result = cut.findHighestNumber(values);
 
             //Assert
-            Assert.That(result, Is.EqualTo(expectedResult));
+            Assert.Equal(expectedResult, result);
         }
     }
 }
