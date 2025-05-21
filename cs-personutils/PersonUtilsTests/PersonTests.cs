@@ -1,17 +1,16 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PersonUtils;
+﻿using PersonUtils;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Xunit;
 
 namespace PersonUtils.Tests
 {
-    [TestClass]
     public class PersonTests
     {
-        [TestMethod]
+        [Fact]
         public void Two_Identical_Objects_Result_True()
         {
             // Arrange
@@ -23,10 +22,10 @@ namespace PersonUtils.Tests
             bool result = p1 == p2;
 
             //Assert
-            Assert.AreEqual(expectedResult, result);
+            Assert.Equal(expectedResult, result);
         }
 
-        [TestMethod]
+        [Fact]
         public void Two_Identical_Object_References_Result_True()
         {
             // Arrange
@@ -38,10 +37,10 @@ namespace PersonUtils.Tests
             bool result = p1 == p2;
 
             //Assert
-            Assert.AreEqual(expectedResult, result);
+            Assert.Equal(expectedResult, result);
         }
 
-        [TestMethod]
+        [Fact]
         public void LH_null_RH_Concrete_Result_False()
         {
             // Arrange
@@ -53,10 +52,10 @@ namespace PersonUtils.Tests
             bool result = lh == rh;
 
             //Assert
-            Assert.AreEqual(expectedResult, result);
+            Assert.Equal(expectedResult, result);
         }
 
-        [TestMethod]
+        [Fact]
         public void LH_Concrete_RH_null_Result_False()
         {
             // Arrange
@@ -68,10 +67,10 @@ namespace PersonUtils.Tests
             bool result = lh == rh;
 
             //Assert
-            Assert.AreEqual(expectedResult, result);
+            Assert.Equal(expectedResult, result);
         }
 
-        [TestMethod]
+        [Fact]
         public void LH_Lower_Than_RH_Result_False()
         {
             // Arrange
@@ -83,10 +82,10 @@ namespace PersonUtils.Tests
             bool result = lh == rh;
 
             //Assert
-            Assert.AreEqual(expectedResult, result);
+            Assert.Equal(expectedResult, result);
         }
 
-        [TestMethod]
+        [Fact]
         public void LH_Less_Than_RH_Result_False()
         {
             // Arrange
@@ -98,10 +97,10 @@ namespace PersonUtils.Tests
             bool result = lh < rh;
 
             //Assert
-            Assert.AreEqual(expectedResult, result);
+            Assert.Equal(expectedResult, result);
         }
 
-        [TestMethod]
+        [Fact]
         public void LH_Greater_Than_RH_Result_False()
         {
             // Arrange
@@ -113,7 +112,7 @@ namespace PersonUtils.Tests
             bool result = lh > rh;
 
             //Assert
-            Assert.AreEqual(expectedResult, result);
+            Assert.Equal(expectedResult, result);
         }
     }
 }

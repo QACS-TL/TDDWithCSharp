@@ -17,3 +17,7 @@ C:\QAL\Barclays\TDDWithCSharp\QLC1HighestNumberFinder\QLC1HighestNumberFinder\ob
 C:\QAL\Barclays\TDDWithCSharp\QLC1HighestNumberFinder\QLC1HighestNumberFinder\obj\Debug\net8.0\QLC1HighestNumberFinder.dll
 C:\QAL\Barclays\TDDWithCSharp\QLC1HighestNumberFinder\QLC1HighestNumberFinder\obj\Debug\net8.0\refint\QLC1HighestNumberFinder.dll
 C:\QAL\Barclays\TDDWithCSharp\QLC1HighestNumberFinder\QLC1HighestNumberFinder\obj\Debug\net8.0\QLC1HighestNumberFinder.pdb
+C:\QAL\Barclays\TDDWithCSharp\QLC1HighestNumberFinder\QLC1HighestNumberFinder\bin\Debug\net8.0\QLC1HighestNumberFinder.deps.json
+C:\QAL\Barclays\TDDWithCSharp\QLC1HighestNumberFinder\QLC1HighestNumberFinder\bin\Debug\net8.0\QLC1HighestNumberFinder.dll
+C:\QAL\Barclays\TDDWithCSharp\QLC1HighestNumberFinder\QLC1HighestNumberFinder\bin\Debug\net8.0\QLC1HighestNumberFinder.pdb
+C:\QAL\Barclays\TDDWithCSharp\QLC1HighestNumberFinder\QLC1HighestNumberFinder\obj\Debug\net8.0\ref\QLC1HighestNumberFinder.dll
