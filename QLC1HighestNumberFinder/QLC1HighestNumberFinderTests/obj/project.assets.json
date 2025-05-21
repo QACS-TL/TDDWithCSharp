@@ -5530,11 +5530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\QAL\\Barclays\\QLC1HighestNumberFinder\\QLC1HighestNumberFinderTests\\QLC1HighestNumberFinderTests.csproj",
+      "projectUniqueName": "C:\\QAL\\Barclays\\TDDWithCSharp\\QLC1HighestNumberFinder\\QLC1HighestNumberFinderTests\\QLC1HighestNumberFinderTests.csproj",
       "projectName": "QLC1HighestNumberFinderTests",
-      "projectPath": "C:\\QAL\\Barclays\\QLC1HighestNumberFinder\\QLC1HighestNumberFinderTests\\QLC1HighestNumberFinderTests.csproj",
+      "projectPath": "C:\\QAL\\Barclays\\TDDWithCSharp\\QLC1HighestNumberFinder\\QLC1HighestNumberFinderTests\\QLC1HighestNumberFinderTests.csproj",
       "packagesPath": "C:\\Users\\Pete\\.nuget\\packages\\",
-      "outputPath": "C:\\QAL\\Barclays\\QLC1HighestNumberFinder\\QLC1HighestNumberFinderTests\\obj\\",
+      "outputPath": "C:\\QAL\\Barclays\\TDDWithCSharp\\QLC1HighestNumberFinder\\QLC1HighestNumberFinderTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5555,8 +5555,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\QAL\\Barclays\\QLC1HighestNumberFinder\\QLC1HighestNumberFinder\\QLC1HighestNumberFinder.csproj": {
-              "projectPath": "C:\\QAL\\Barclays\\QLC1HighestNumberFinder\\QLC1HighestNumberFinder\\QLC1HighestNumberFinder.csproj"
+            "C:\\QAL\\Barclays\\TDDWithCSharp\\QLC1HighestNumberFinder\\QLC1HighestNumberFinder\\QLC1HighestNumberFinder.csproj": {
+              "projectPath": "C:\\QAL\\Barclays\\TDDWithCSharp\\QLC1HighestNumberFinder\\QLC1HighestNumberFinder\\QLC1HighestNumberFinder.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HX+U4MYrY0A=",
+  "dgSpecHash": "g4MFfuxWo4w=",
   "success": true,
-  "projectFilePath": "C:\\QAL\\Barclays\\QLC1HighestNumberFinder\\QLC1HighestNumberFinderTests\\QLC1HighestNumberFinderTests.csproj",
+  "projectFilePath": "C:\\QAL\\Barclays\\TDDWithCSharp\\QLC1HighestNumberFinder\\QLC1HighestNumberFinderTests\\QLC1HighestNumberFinderTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pete\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Pete\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
