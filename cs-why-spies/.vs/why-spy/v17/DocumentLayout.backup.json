@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QAL\\Barclays\\TDDWithCSharp\\cs-why-spies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02144759-9915-4D0D-8727-D62E8394EC37}|why-spy-tests\\why-spy-tests.csproj|c:\\qal\\barclays\\tddwithcsharp\\cs-why-spies\\why-spy-tests\\dataclerktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02144759-9915-4D0D-8727-D62E8394EC37}|why-spy-tests\\why-spy-tests.csproj|solutionrelative:why-spy-tests\\dataclerktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775DC628-1A1F-4252-A381-A89CEEBF4BE9}|why-spy\\why-spy.csproj|c:\\qal\\barclays\\tddwithcsharp\\cs-why-spies\\why-spy\\dataclerk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775DC628-1A1F-4252-A381-A89CEEBF4BE9}|why-spy\\why-spy.csproj|solutionrelative:why-spy\\dataclerk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02144759-9915-4D0D-8727-D62E8394EC37}|why-spy-tests\\why-spy-tests.csproj|c:\\qal\\barclays\\tddwithcsharp\\cs-why-spies\\why-spy-tests\\why-spy-tests.v3.ncrunchproject||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{02144759-9915-4D0D-8727-D62E8394EC37}|why-spy-tests\\why-spy-tests.csproj|solutionrelative:why-spy-tests\\why-spy-tests.v3.ncrunchproject||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775DC628-1A1F-4252-A381-A89CEEBF4BE9}|why-spy\\why-spy.csproj|c:\\qal\\barclays\\tddwithcsharp\\cs-why-spies\\why-spy\\why-spy.v3.ncrunchproject||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{775DC628-1A1F-4252-A381-A89CEEBF4BE9}|why-spy\\why-spy.csproj|solutionrelative:why-spy\\why-spy.v3.ncrunchproject||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataClerk.cs",
+              "DocumentMoniker": "C:\\QAL\\Barclays\\TDDWithCSharp\\cs-why-spies\\why-spy\\DataClerk.cs",
+              "RelativeDocumentMoniker": "why-spy\\DataClerk.cs",
+              "ToolTip": "C:\\QAL\\Barclays\\TDDWithCSharp\\cs-why-spies\\why-spy\\DataClerk.cs",
+              "RelativeToolTip": "why-spy\\DataClerk.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:02:40.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "why-spy-tests.v3.ncrunchproject",
+              "DocumentMoniker": "C:\\QAL\\Barclays\\TDDWithCSharp\\cs-why-spies\\why-spy-tests\\why-spy-tests.v3.ncrunchproject",
+              "RelativeDocumentMoniker": "why-spy-tests\\why-spy-tests.v3.ncrunchproject",
+              "ToolTip": "C:\\QAL\\Barclays\\TDDWithCSharp\\cs-why-spies\\why-spy-tests\\why-spy-tests.v3.ncrunchproject",
+              "RelativeToolTip": "why-spy-tests\\why-spy-tests.v3.ncrunchproject",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-21T12:02:38.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "why-spy.v3.ncrunchproject",
+              "DocumentMoniker": "C:\\QAL\\Barclays\\TDDWithCSharp\\cs-why-spies\\why-spy\\why-spy.v3.ncrunchproject",
+              "RelativeDocumentMoniker": "why-spy\\why-spy.v3.ncrunchproject",
+              "ToolTip": "C:\\QAL\\Barclays\\TDDWithCSharp\\cs-why-spies\\why-spy\\why-spy.v3.ncrunchproject",
+              "RelativeToolTip": "why-spy\\why-spy.v3.ncrunchproject",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-21T12:02:36.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataClerkTests.cs",
+              "DocumentMoniker": "C:\\QAL\\Barclays\\TDDWithCSharp\\cs-why-spies\\why-spy-tests\\DataClerkTests.cs",
+              "RelativeDocumentMoniker": "why-spy-tests\\DataClerkTests.cs",
+              "ToolTip": "C:\\QAL\\Barclays\\TDDWithCSharp\\cs-why-spies\\why-spy-tests\\DataClerkTests.cs",
+              "RelativeToolTip": "why-spy-tests\\DataClerkTests.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAJkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:00:38.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

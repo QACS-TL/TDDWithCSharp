@@ -1,4 +1,4 @@
-using NUnit.Framework;
+using Xunit;
 using NodaTime;
 using System.Globalization;
 using System;
@@ -32,7 +32,7 @@ namespace why_spy_tests
     }
     public class DataClerkTests
     {
-        [Test]
+        [Fact]
         public void Files_are_logged_before_8pm()
         {
             // arrange
@@ -47,7 +47,7 @@ namespace why_spy_tests
             Assert.Fail("We have no real way of testing this code");
         }
 
-        [Test]
+        [Fact]
         public void Files_are_logged_before_8pm_mocked()
         {
             // arrange
@@ -66,10 +66,10 @@ namespace why_spy_tests
             cut.ProcessData();
 
             // assert
-            Assert.AreEqual(expectedCount, count);
+            Assert.Equal(expectedCount, count);
         }
 
-        [Test]
+        [Fact]
         public void Files_are_logged_after_8pm()
         {
             // arrange
@@ -88,10 +88,10 @@ namespace why_spy_tests
             cut.ProcessData();
 
             // assert
-            Assert.AreEqual(expectedCount, count);
+            Assert.Equal(expectedCount, count);
         }
 
-        [Test]
+        [Fact]
         public  void    Play_with_NSubstitute_features_spy_no_override()
         {
             // arrange
@@ -102,11 +102,11 @@ namespace why_spy_tests
             DateTime nowDelta = DateTime.Now;
 
             // assert
-            Assert.AreEqual(now.Hour, nowDelta.Hour);
-            Assert.AreEqual(now.Minute, nowDelta.Minute);
+            Assert.Equal(now.Hour, nowDelta.Hour);
+            Assert.Equal(now.Minute, nowDelta.Minute);
         }
 
-        [Test]
+        [Fact]
         public void Play_with_NSubstitute_features_spy_with_override()
         {
             // arrange
@@ -122,11 +122,11 @@ namespace why_spy_tests
             DateTime nowDelta = DateTime.Now;
 
             // assert
-            Assert.AreEqual(now.Hour, nowDelta.Hour);
-            Assert.AreEqual(now.Minute, nowDelta.Minute);
+            Assert.Equal(now.Hour, nowDelta.Hour);
+            Assert.Equal(now.Minute, nowDelta.Minute);
         }
 
-        [Test]
+        [Fact]
         public void Files_are_logged_after_8pm_using_spy()
         {
             // arrange
@@ -151,10 +151,10 @@ namespace why_spy_tests
             cut.ProcessData();
 
             // assert
-            Assert.AreEqual(expectedCount, count);
+            Assert.Equal(expectedCount, count);
         }
 
-        [Test]
+        [Fact]
         public void Files_are_logged_after_8pm_using_spy_alternative_syntax()
         {
             // arrange
