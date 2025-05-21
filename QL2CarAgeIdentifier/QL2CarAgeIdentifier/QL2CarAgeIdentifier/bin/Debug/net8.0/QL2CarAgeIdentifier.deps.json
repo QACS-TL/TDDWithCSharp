@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "QL2CarAgeIdentifier/1.0.0": {
+        "runtime": {
+          "QL2CarAgeIdentifier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QL2CarAgeIdentifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

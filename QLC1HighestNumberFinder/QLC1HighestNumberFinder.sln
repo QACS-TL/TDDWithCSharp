@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLC1HighestNumberFinder", "QLC1HighestNumberFinder\QLC1HighestNumberFinder.csproj", "{0A71EC3D-2485-4D0A-BC5C-6A311014C1A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLC1HighestNumberFinderTests", "QLC1HighestNumberFinderTests\QLC1HighestNumberFinderTests.csproj", "{C2FC93EE-0147-4F0D-AEBE-551435FC3C6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A71EC3D-2485-4D0A-BC5C-6A311014C1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A71EC3D-2485-4D0A-BC5C-6A311014C1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A71EC3D-2485-4D0A-BC5C-6A311014C1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A71EC3D-2485-4D0A-BC5C-6A311014C1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2FC93EE-0147-4F0D-AEBE-551435FC3C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2FC93EE-0147-4F0D-AEBE-551435FC3C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2FC93EE-0147-4F0D-AEBE-551435FC3C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2FC93EE-0147-4F0D-AEBE-551435FC3C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {190DDD28-5326-44D7-92FB-146C1510CBC7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\QAL\Barclays\QLC1HighestNumberFinder\QLC1HighestNumberFinder\bin\Debug\net8.0\QLC1HighestNumberFinder.deps.json
+C:\QAL\Barclays\QLC1HighestNumberFinder\QLC1HighestNumberFinder\bin\Debug\net8.0\QLC1HighestNumberFinder.dll
+C:\QAL\Barclays\QLC1HighestNumberFinder\QLC1HighestNumberFinder\bin\Debug\net8.0\QLC1HighestNumberFinder.pdb
+C:\QAL\Barclays\QLC1HighestNumberFinder\QLC1HighestNumberFinder\obj\Debug\net8.0\QLC1HighestNumberFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\QAL\Barclays\QLC1HighestNumberFinder\QLC1HighestNumberFinder\obj\Debug\net8.0\QLC1HighestNumberFinder.AssemblyInfoInputs.cache
+C:\QAL\Barclays\QLC1HighestNumberFinder\QLC1HighestNumberFinder\obj\Debug\net8.0\QLC1HighestNumberFinder.AssemblyInfo.cs
+C:\QAL\Barclays\QLC1HighestNumberFinder\QLC1HighestNumberFinder\obj\Debug\net8.0\QLC1HighestNumberFinder.csproj.CoreCompileInputs.cache
+C:\QAL\Barclays\QLC1HighestNumberFinder\QLC1HighestNumberFinder\obj\Debug\net8.0\QLC1HighestNumberFinder.dll
+C:\QAL\Barclays\QLC1HighestNumberFinder\QLC1HighestNumberFinder\obj\Debug\net8.0\refint\QLC1HighestNumberFinder.dll
+C:\QAL\Barclays\QLC1HighestNumberFinder\QLC1HighestNumberFinder\obj\Debug\net8.0\QLC1HighestNumberFinder.pdb
+C:\QAL\Barclays\QLC1HighestNumberFinder\QLC1HighestNumberFinder\obj\Debug\net8.0\ref\QLC1HighestNumberFinder.dll

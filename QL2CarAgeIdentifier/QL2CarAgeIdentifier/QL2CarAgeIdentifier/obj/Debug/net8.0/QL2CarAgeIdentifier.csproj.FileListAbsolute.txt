@@ -1,0 +1,11 @@
+C:\QAL\Barclays\QL2CarAgeIdentifier\QL2CarAgeIdentifier\QL2CarAgeIdentifier\bin\Debug\net8.0\QL2CarAgeIdentifier.deps.json
+C:\QAL\Barclays\QL2CarAgeIdentifier\QL2CarAgeIdentifier\QL2CarAgeIdentifier\bin\Debug\net8.0\QL2CarAgeIdentifier.dll
+C:\QAL\Barclays\QL2CarAgeIdentifier\QL2CarAgeIdentifier\QL2CarAgeIdentifier\bin\Debug\net8.0\QL2CarAgeIdentifier.pdb
+C:\QAL\Barclays\QL2CarAgeIdentifier\QL2CarAgeIdentifier\QL2CarAgeIdentifier\obj\Debug\net8.0\QL2CarAgeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\QAL\Barclays\QL2CarAgeIdentifier\QL2CarAgeIdentifier\QL2CarAgeIdentifier\obj\Debug\net8.0\QL2CarAgeIdentifier.AssemblyInfoInputs.cache
+C:\QAL\Barclays\QL2CarAgeIdentifier\QL2CarAgeIdentifier\QL2CarAgeIdentifier\obj\Debug\net8.0\QL2CarAgeIdentifier.AssemblyInfo.cs
+C:\QAL\Barclays\QL2CarAgeIdentifier\QL2CarAgeIdentifier\QL2CarAgeIdentifier\obj\Debug\net8.0\QL2CarAgeIdentifier.csproj.CoreCompileInputs.cache
+C:\QAL\Barclays\QL2CarAgeIdentifier\QL2CarAgeIdentifier\QL2CarAgeIdentifier\obj\Debug\net8.0\QL2CarAgeIdentifier.dll
+C:\QAL\Barclays\QL2CarAgeIdentifier\QL2CarAgeIdentifier\QL2CarAgeIdentifier\obj\Debug\net8.0\refint\QL2CarAgeIdentifier.dll
+C:\QAL\Barclays\QL2CarAgeIdentifier\QL2CarAgeIdentifier\QL2CarAgeIdentifier\obj\Debug\net8.0\QL2CarAgeIdentifier.pdb
+C:\QAL\Barclays\QL2CarAgeIdentifier\QL2CarAgeIdentifier\QL2CarAgeIdentifier\obj\Debug\net8.0\ref\QL2CarAgeIdentifier.dll

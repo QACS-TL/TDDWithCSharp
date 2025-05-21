@@ -1,0 +1,11 @@
+C:\QAL\Barclays\QL1TDDStringTokeniser\StringTokeniser\Tokeniser\obj\Debug\net8.0\Tokeniser.GeneratedMSBuildEditorConfig.editorconfig
+C:\QAL\Barclays\QL1TDDStringTokeniser\StringTokeniser\Tokeniser\obj\Debug\net8.0\Tokeniser.AssemblyInfoInputs.cache
+C:\QAL\Barclays\QL1TDDStringTokeniser\StringTokeniser\Tokeniser\obj\Debug\net8.0\Tokeniser.AssemblyInfo.cs
+C:\QAL\Barclays\QL1TDDStringTokeniser\StringTokeniser\Tokeniser\obj\Debug\net8.0\Tokeniser.csproj.CoreCompileInputs.cache
+C:\QAL\Barclays\QL1TDDStringTokeniser\StringTokeniser\Tokeniser\bin\Debug\net8.0\Tokeniser.deps.json
+C:\QAL\Barclays\QL1TDDStringTokeniser\StringTokeniser\Tokeniser\bin\Debug\net8.0\Tokeniser.dll
+C:\QAL\Barclays\QL1TDDStringTokeniser\StringTokeniser\Tokeniser\bin\Debug\net8.0\Tokeniser.pdb
+C:\QAL\Barclays\QL1TDDStringTokeniser\StringTokeniser\Tokeniser\obj\Debug\net8.0\Tokeniser.dll
+C:\QAL\Barclays\QL1TDDStringTokeniser\StringTokeniser\Tokeniser\obj\Debug\net8.0\refint\Tokeniser.dll
+C:\QAL\Barclays\QL1TDDStringTokeniser\StringTokeniser\Tokeniser\obj\Debug\net8.0\Tokeniser.pdb
+C:\QAL\Barclays\QL1TDDStringTokeniser\StringTokeniser\Tokeniser\obj\Debug\net8.0\ref\Tokeniser.dll
