@@ -1,16 +1,10 @@
-using NUnit.Framework;
+using Xunit;
 using NSubstitute;
 using System.Collections.Generic;
+using cs_mocking_examples_library;
 
 namespace cs_mocking_examples
 {
-    public class MyList<T> : List<T>
-    {
-        public virtual long GetSize()
-        {
-            return this.Count;
-        }
-    }
 
     public interface ICounter
     {
@@ -25,12 +19,7 @@ namespace cs_mocking_examples
 
     public class Tests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
-        [Test]
+        [Fact]
         public void Mocking_an_interface()
         {
             // arrange
@@ -44,10 +33,10 @@ namespace cs_mocking_examples
             result = counter.Foobar("Hellox");
 
             // assert
-            Assert.AreEqual(expectedLength, result);
+            Assert.Equal(expectedLength, result);
         }
 
-        [Test]
+        [Fact]
         public void Mocking_a_class()
         {
             // arrange
@@ -64,10 +53,10 @@ namespace cs_mocking_examples
             //long result = salmons.Count;
 
             // assert
-            Assert.AreEqual(expectedLength, result);
+            Assert.Equal(expectedLength, result);
         }
 
-        [Test]
+        [Fact]
         public  void    Verification_testing()
         {
             var counter = 0;
@@ -77,10 +66,10 @@ namespace cs_mocking_examples
 
             foo.SayHello("World");
             foo.SayHello("World");
-            Assert.AreEqual(2, counter);
+            Assert.Equal(2, counter);
         }
 
-        [Test]
+        [Fact]
         public void Verification_testing_updated_version()
         {
             // With this approach, there is no need to use the When and Do methods
@@ -92,6 +81,7 @@ namespace cs_mocking_examples
 
             // act
             foo.SayHello("World");
+            //foo.SayHello("World");
 
             // assert
             foo.Received(2).SayHello("World");
