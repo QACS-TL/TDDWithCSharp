@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QAL\\Barclays\\TDDWithCSharp\\tdd-cs-lottery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87D87E9F-0BD6-4390-A4CB-64480F9827CD}|tdd-cs-lotterytickets\\tdd-cs-lotterytickets.csproj|c:\\qal\\barclays\\tddwithcsharp\\tdd-cs-lottery\\tdd-cs-lotterytickets\\lotterytickethandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D87E9F-0BD6-4390-A4CB-64480F9827CD}|tdd-cs-lotterytickets\\tdd-cs-lotterytickets.csproj|solutionrelative:tdd-cs-lotterytickets\\lotterytickethandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D0BE1-8643-445F-8FE2-6CDC67A0A2F0}|LotteryService\\LotteryService.csproj|c:\\qal\\barclays\\tddwithcsharp\\tdd-cs-lottery\\lotteryservice\\lotteryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D0BE1-8643-445F-8FE2-6CDC67A0A2F0}|LotteryService\\LotteryService.csproj|solutionrelative:lotteryservice\\lotteryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D0BE1-8643-445F-8FE2-6CDC67A0A2F0}|LotteryService\\LotteryService.csproj|c:\\qal\\barclays\\tddwithcsharp\\tdd-cs-lottery\\lotteryservice\\myrandomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D0BE1-8643-445F-8FE2-6CDC67A0A2F0}|LotteryService\\LotteryService.csproj|solutionrelative:lotteryservice\\myrandomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D87E9F-0BD6-4390-A4CB-64480F9827CD}|tdd-cs-lotterytickets\\tdd-cs-lotterytickets.csproj|c:\\qal\\barclays\\tddwithcsharp\\tdd-cs-lottery\\tdd-cs-lotterytickets\\tdd-cs-lotterytickets.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87D87E9F-0BD6-4390-A4CB-64480F9827CD}|tdd-cs-lotterytickets\\tdd-cs-lotterytickets.csproj|solutionrelative:tdd-cs-lotterytickets\\tdd-cs-lotterytickets.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43D0BE1-8643-445F-8FE2-6CDC67A0A2F0}|LotteryService\\LotteryService.csproj|c:\\qal\\barclays\\tddwithcsharp\\tdd-cs-lottery\\lotteryservice\\inumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43D0BE1-8643-445F-8FE2-6CDC67A0A2F0}|LotteryService\\LotteryService.csproj|solutionrelative:lotteryservice\\inumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tdd-cs-lotterytickets",
+              "DocumentMoniker": "C:\\QAL\\Barclays\\TDDWithCSharp\\tdd-cs-lottery\\tdd-cs-lotterytickets\\tdd-cs-lotterytickets.csproj",
+              "RelativeDocumentMoniker": "tdd-cs-lotterytickets\\tdd-cs-lotterytickets.csproj",
+              "ToolTip": "C:\\QAL\\Barclays\\TDDWithCSharp\\tdd-cs-lottery\\tdd-cs-lotterytickets\\tdd-cs-lotterytickets.csproj",
+              "RelativeToolTip": "tdd-cs-lotterytickets\\tdd-cs-lotterytickets.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T13:10:16.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INumberGenerator.cs",
+              "DocumentMoniker": "C:\\QAL\\Barclays\\TDDWithCSharp\\tdd-cs-lottery\\LotteryService\\INumberGenerator.cs",
+              "RelativeDocumentMoniker": "LotteryService\\INumberGenerator.cs",
+              "ToolTip": "C:\\QAL\\Barclays\\TDDWithCSharp\\tdd-cs-lottery\\LotteryService\\INumberGenerator.cs",
+              "RelativeToolTip": "LotteryService\\INumberGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:08:51.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LotteryHandler.cs",
+              "DocumentMoniker": "C:\\QAL\\Barclays\\TDDWithCSharp\\tdd-cs-lottery\\LotteryService\\LotteryHandler.cs",
+              "RelativeDocumentMoniker": "LotteryService\\LotteryHandler.cs",
+              "ToolTip": "C:\\QAL\\Barclays\\TDDWithCSharp\\tdd-cs-lottery\\LotteryService\\LotteryHandler.cs",
+              "RelativeToolTip": "LotteryService\\LotteryHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:08:45.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyRandomNumberGenerator.cs",
+              "DocumentMoniker": "C:\\QAL\\Barclays\\TDDWithCSharp\\tdd-cs-lottery\\LotteryService\\MyRandomNumberGenerator.cs",
+              "RelativeDocumentMoniker": "LotteryService\\MyRandomNumberGenerator.cs",
+              "ToolTip": "C:\\QAL\\Barclays\\TDDWithCSharp\\tdd-cs-lottery\\LotteryService\\MyRandomNumberGenerator.cs",
+              "RelativeToolTip": "LotteryService\\MyRandomNumberGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:08:42.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LotteryTicketHandlerTests.cs",
+              "DocumentMoniker": "C:\\QAL\\Barclays\\TDDWithCSharp\\tdd-cs-lottery\\tdd-cs-lotterytickets\\LotteryTicketHandlerTests.cs",
+              "RelativeDocumentMoniker": "tdd-cs-lotterytickets\\LotteryTicketHandlerTests.cs",
+              "ToolTip": "C:\\QAL\\Barclays\\TDDWithCSharp\\tdd-cs-lottery\\tdd-cs-lotterytickets\\LotteryTicketHandlerTests.cs",
+              "RelativeToolTip": "tdd-cs-lotterytickets\\LotteryTicketHandlerTests.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:03:19.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

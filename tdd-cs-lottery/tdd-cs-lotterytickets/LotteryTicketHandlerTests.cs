@@ -1,5 +1,6 @@
-using NUnit.Framework;
+using Xunit;
 using System.Collections.Generic;
+using NSubstitute;
 using LotteryService;
 
 namespace tdd_cs_lotterytickets
@@ -8,14 +9,14 @@ namespace tdd_cs_lotterytickets
     {
         INumberGenerator generator;
 
-        [SetUp]
-        public void Setup()
+
+        public LotteryTicketHandlerTests()
         {
             generator = new MyRandomNumberGenerator();
         }
 
-        [Test]
-        public void lottery_ticket_numbers_generated()
+        [Fact]
+        public void LotteryTicketNumbersGenerated()
         {
             // arrange
             LotteryHandler cut = new LotteryHandler(generator);
@@ -30,11 +31,34 @@ namespace tdd_cs_lotterytickets
             HashSet<int> result = cut.GenerateRandomSet();
 
             // assert
-            Assert.AreEqual(expectedNumbers, result);
+            Assert.Equal(expectedNumbers, result);
         }
 
-        [Test]
-        public void lottery_ticket_numbers_format_correctly()
+        [Fact]
+        public void LotteryTicketNumbersGeneratedUsingMock()
+        {
+            // arrange
+            var generator = Substitute.For<INumberGenerator>();
+
+            generator.generate(99).Returns( 0, 1, 2, 3, 4); // Mocking the generator to return specific values
+
+            LotteryHandler cut = new LotteryHandler(generator);
+            HashSet<int> expectedNumbers = new();
+            expectedNumbers.Add(1);
+            expectedNumbers.Add(2);
+            expectedNumbers.Add(3);
+            expectedNumbers.Add(4);
+            expectedNumbers.Add(5);
+
+            // act
+            HashSet<int> result = cut.GenerateRandomSet();
+
+            // assert
+            Assert.Equal(expectedNumbers, result);
+        }
+
+        [Fact]
+        public void LotteryTicketNumbersFormatCorrectly()
         {
             // arrange
             LotteryHandler cut = new LotteryHandler(generator);
@@ -50,7 +74,7 @@ namespace tdd_cs_lotterytickets
             string result = cut.format(expectedNumbers);
 
             // assert
-            Assert.AreEqual(expResult, result);
+            Assert.Equal(expResult, result);
         }
     }
 }
