@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-mocking-examples", "cs-mocking-examples\cs-mocking-examples.csproj", "{5D5E17B9-7F5E-4060-91C6-B10A6450DF6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-mocking-examples-library", "cs-mocking-examples-library\cs-mocking-examples-library.csproj", "{32975B08-2FA5-48E2-BED6-DBF96682A68F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D5E17B9-7F5E-4060-91C6-B10A6450DF6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5E17B9-7F5E-4060-91C6-B10A6450DF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5E17B9-7F5E-4060-91C6-B10A6450DF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5E17B9-7F5E-4060-91C6-B10A6450DF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32975B08-2FA5-48E2-BED6-DBF96682A68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32975B08-2FA5-48E2-BED6-DBF96682A68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32975B08-2FA5-48E2-BED6-DBF96682A68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32975B08-2FA5-48E2-BED6-DBF96682A68F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AB0B06F-3AD6-44C0-B865-987D8B6D5057}
+	EndGlobalSection
+EndGlobal
