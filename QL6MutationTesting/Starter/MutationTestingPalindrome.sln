@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutationTestingPalindrome", "MutationTestingPalindrome\MutationTestingPalindrome.csproj", "{FE6529E7-426D-4E83-9DBB-7347134B9942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutationTestingPalindromeTests", "MutationTestingPalindromeTests\MutationTestingPalindromeTests.csproj", "{6029008B-0EFB-4ADE-B26A-E4C2835DE8C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE6529E7-426D-4E83-9DBB-7347134B9942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6529E7-426D-4E83-9DBB-7347134B9942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6529E7-426D-4E83-9DBB-7347134B9942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6529E7-426D-4E83-9DBB-7347134B9942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6029008B-0EFB-4ADE-B26A-E4C2835DE8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6029008B-0EFB-4ADE-B26A-E4C2835DE8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6029008B-0EFB-4ADE-B26A-E4C2835DE8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6029008B-0EFB-4ADE-B26A-E4C2835DE8C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF6B4A1D-D329-4A56-AE16-0D9844B5FEE4}
+	EndGlobalSection
+EndGlobal
